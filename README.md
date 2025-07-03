@@ -1,7 +1,7 @@
 
 # Calculator-GUI-with-Custom-Tkinter
 
-Hello my name is Lucky and this project i Make calculator GUI with CustomTkinter, and then i want to shere my code to public :)
+Hello my name is Lucky and this my project, i Make calculator GUI with CustomTkinter, and then i want to shere my code to public :)
 
 
 
