@@ -10,7 +10,7 @@ Hello my name is Lucky and this project i Make calculator GUI with CustomTkinter
 
 Install my project with :
 
- 1. Customtkinter 5.2.2(in terminal or Vs code):
+ 1. Customtkinter 5.2.2(in your terminal):
 
 ```bash
 pip install customtkinter  
