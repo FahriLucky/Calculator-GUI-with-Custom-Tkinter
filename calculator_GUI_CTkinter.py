@@ -1,5 +1,5 @@
 from customtkinter import *
-from tkinter import*
+
 
 #structure ui
 app = CTk()
