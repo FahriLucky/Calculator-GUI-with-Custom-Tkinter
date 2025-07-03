@@ -1,2 +1,22 @@
+
 # Calculator-GUI-with-Custom-Tkinter
-Make calculator  GUI with CustomTkinter
+
+Hello my name is Lucky and this project i Make calculator GUI with CustomTkinter
+
+
+
+
+## Installation
+
+Install my project with :
+
+ 1. Customtkinter 5.2.2(in terminal or Vs code):
+
+```bash
+pip install customtkinter  
+```
+    
+## Screenshots
+
+![App Screenshot](https://github.com/FahriLucky/Calculator-GUI-with-Custom-Tkinter/blob/main/Ctkinter%20calculator%20.png?raw=true)
+
